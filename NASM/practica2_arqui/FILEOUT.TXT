@@ -1,0 +1,10 @@
+{
+	"nombre" : "randolph estuardo muy",
+	"carne":"201314112",
+	"resultados":{
+		"media":0068,
+		"moda":0004,
+		"maximo":0630,
+		"minimo":0003,
+	}
+}

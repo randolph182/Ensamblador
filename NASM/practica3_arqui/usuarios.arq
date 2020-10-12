@@ -1,0 +1,26 @@
+{
+	"nombre": "randolph estuardo muy",
+	"carne" : "201314112",
+	"users":[
+		{
+			"name":"admin",
+			"password":"123",
+      "record":"0000"
+		},
+		{
+			"name":"user2",
+			"password":"123",
+      "record":"0250"
+		},
+		{
+			"name":"user3",
+			"password":"123",
+			"record":"0000"
+		},
+		{
+			"name":"user4",
+			"password":"1234",
+			"record":"0000"
+		}
+	]
+}
